@@ -15,22 +15,15 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 
 ## Tools & Technologies
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/intellij-idea.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/pycharm.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
 
 
