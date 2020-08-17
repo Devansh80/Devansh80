@@ -21,6 +21,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
   <img align="left" alt="Woken's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
+<br>
 
 ## Tools & Technologies
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
