@@ -32,6 +32,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 <code><img height="50" src="images/html5.png"></code>
 <code><img height="50" src="images/css.png"></code>
 <code><img height="50" src="images/javascript.png"></code>
+<code><img height="50" src="images/flask.png"></code>
 <code><img height="50" src="images/AWS.png"></code>
 <code><img height="50" src="images/vscode.png"></code>
 <code><img height="50" src="images/postman.png"></code>
