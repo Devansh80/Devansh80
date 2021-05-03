@@ -9,6 +9,11 @@ Let me explain about myself.
 
 I am a **Software Developer** and student currently living in **India**. My interests range from *technology* to *programming*. I am also interested in volunteering, writing, and listening music.
 As a computer science student, i have a good grasp on *Data structures & Algorithms*. I love to build **mobile app's**. If you’d like to get in touch, feel free to say hello through any of the social links below.
+<div align="center">
+
+### Show some 💓 by starring some of the repositories!
+
+</div>
 
 <a href="https://twitter.com/rathourdevansh">
   <img align="left" alt="Devansh's Twitter" width="30px" src="images/twitter.png" />
