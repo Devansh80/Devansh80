@@ -12,6 +12,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 <div align="center">
 
 ### Show some 💓 by starring some of the repositories!
+</div>
 
 
 ## 🌐Socials
