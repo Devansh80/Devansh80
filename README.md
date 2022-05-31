@@ -24,8 +24,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Devansh80&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh80&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devansh80&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
