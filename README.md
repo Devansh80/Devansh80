@@ -1,8 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=406&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Devansh!;A+Software+Developer;Tech+Educator;And+a+Traveller)](https://git.io/typing-svg)
 
-Glad to see you here!  🤩
-Let me explain about myself.
 
 ## About me
 
