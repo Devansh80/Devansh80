@@ -4,6 +4,10 @@
 
 ## About me
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA2OGM1YzlkYTNkNjgyNGI4YTc1NDU3OGExODBjMDdkMGNiZjkyYiZjdD10cw/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
+</div>
+
 I am a **Software Developer** and student currently living in **India**. My interests range from *technology* to *programming*. I am also interested in volunteering, writing, and listening music.
 As a computer science student, i have a good grasp on *Data structures & Algorithms*. I love to build **mobile app's**. If you’d like to get in touch, feel free to say hello through any of the social links below.
 <div align="center">
