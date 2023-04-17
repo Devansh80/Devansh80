@@ -8,8 +8,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA2OGM1YzlkYTNkNjgyNGI4YTc1NDU3OGExODBjMDdkMGNiZjkyYiZjdD10cw/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
 </div>
 
-I am a **Software Developer** and student currently living in **India**. My interests range from *technology* to *programming*. I am also interested in volunteering, writing, and listening music.
-As a computer science student, i have a good grasp on *Data structures & Algorithms*. I love to build **mobile app's**. If you’d like to get in touch, feel free to say hello through any of the social links below.
+Meet Devansh, a programming wizard with an uncanny ability to transform complex code into elegant solutions. With a passion for innovation and a knack for problem-solving, Devansh is a force to be reckoned with in the world of software development. If you’d like to get in touch, feel free to say hello through any of the social links below.
 <div align="center">
 
 ### Show some 💓 by starring some of the repositories!
